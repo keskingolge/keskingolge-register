@@ -1,0 +1,35 @@
+{
+  "name": "keskingolge-register",
+  "version": "1.0.0",
+  "description": "KeskinGolge Register Bot",
+  "main": "keskingolge.js",
+  "scripts": {
+    "test": "node keskingolge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keskingolge/keskingolge-register.git"
+  },
+  "author": "Yashinu",
+  "license": "ISC",
+  "homepage": "https://github.com/keskingolge/keskingolge-register#readme",
+  "keywords": [
+    "register",
+    "bot",
+    "discordbot",
+    "discord",
+    "yashinu",
+    "teyit",
+    "teyitbotu",
+    "altyapı",
+    "altyapi"
+  ],
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.32",
+    "mongoose": "^5.11.13"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,17 @@
+{
+  "prefixes": ["!","."],
+  "botToken": "",
+  "developers": ["", "703331561054928957"],
+  "mongooseConnectURL": "",
+  "botStatus": "KeskinGolge#0001",
+  "name_age": true,
+  "embedColor": "RANDOM",
+  "defaultTag": "",
+  "tag": "",
+  "staffRoles": [],
+  "invalids": [],
+  "unregisterRoles": [],
+  "boyRoles": [],
+  "girlRoles": [],
+  "tagRoles": []
+}
